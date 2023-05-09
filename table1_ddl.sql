@@ -2,5 +2,6 @@ create table table1
 (
 	id int,
 	name varchar,
-	dept varchar
+	dept varchar,
+	sal int
 );
